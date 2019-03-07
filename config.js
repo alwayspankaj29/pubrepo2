@@ -1,4 +1,5 @@
 {
   "app": "Github Public Repo2",
-  "branch": "development"
+  "branch": "development",
+  "for": "godigit"
 }
